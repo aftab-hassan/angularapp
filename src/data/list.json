@@ -1,0 +1,30 @@
+{
+  "hospital": [
+   {
+    "id" : "hospital1", 
+    "domain" : [
+    {
+        "id" : "domain1.1"
+   },
+  {
+    "id" : "domain1.2"
+  },
+  {
+    "id" : "domain1.3"
+  }
+      ]
+  },
+  
+  {
+    "id" : "hospital2", 
+    "domain" : [
+    {
+        "id" : "domain2.1"
+   },
+  {
+    "id" : "domain2.2"
+  }
+      ]
+  }
+  ]
+}
